@@ -1,2 +1,2 @@
 # Aryaputra-Collection
-Beginner with porgramming
+Beginner with programming
